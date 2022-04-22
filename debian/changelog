@@ -1,3 +1,10 @@
+nymea-gpio (1.1.0) jammy; urgency=medium
+
+  [ Michael Zanetti ]
+  * Default GpioButton to active high
+
+ -- jenkins <developer@nymea.io>  Fri, 22 Apr 2022 12:09:29 +0200
+
 nymea-gpio (1.0.0) xenial; urgency=medium
 
   * 
